@@ -31,7 +31,7 @@ body::after {
     inset: 0;
     background:
         linear-gradient(180deg, rgba(255, 247, 250, 0.88), rgba(255, 232, 240, 0.8)),
-        url('assets/hero-valentines.svg') center top / cover no-repeat;
+        url('assets/fundo2.jpeg') center top / cover no-repeat;
     opacity: 0.34;
     pointer-events: none;
     z-index: -1;
@@ -79,7 +79,7 @@ body.carousel-open::before {
 .hero::before {
     background-image:
         linear-gradient(180deg, rgba(157, 23, 77, 0.14), rgba(157, 23, 77, 0.24)),
-        url('assets/hero-valentines.svg');
+    url('assets/fundo2.jpeg');
 }
 
 .hero::after {
