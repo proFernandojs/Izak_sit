@@ -1,0 +1,51 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#FCE7F3"/>
+  <rect width="1200" height="1400" fill="url(#romanceGlow)" fill-opacity="0.98"/>
+  <circle cx="956" cy="190" r="132" fill="#FFE08A" fill-opacity="0.9"/>
+  <path d="M728 0H1200V454L1008 390C838 334 728 171 728 0Z" fill="#E11D48" fill-opacity="0.16"/>
+  <path d="M0 954L164 1013C356 1082 493 1252 521 1400H0V954Z" fill="#FB7185" fill-opacity="0.28"/>
+  <g opacity="0.22" fill="#FFFFFF">
+    <path d="M140 128C140 88 173 55 213 55C240 55 264 70 277 93C290 70 314 55 341 55C381 55 414 88 414 128C414 218 277 295 277 295C277 295 140 218 140 128Z"/>
+    <path d="M846 122C846 85 876 55 913 55C938 55 959 68 971 88C983 68 1004 55 1029 55C1066 55 1096 85 1096 122C1096 205 971 275 971 275C971 275 846 205 846 122Z"/>
+    <path d="M62 608C62 575 89 548 122 548C144 548 163 559 173 577C183 559 202 548 224 548C257 548 284 575 284 608C284 683 173 746 173 746C173 746 62 683 62 608Z"/>
+  </g>
+  <g opacity="0.92">
+    <path d="M303 442C303 353 375 281 464 281C524 281 578 314 606 366C634 314 688 281 748 281C837 281 909 353 909 442C909 642 606 813 606 813C606 813 303 642 303 442Z" fill="#E11D48"/>
+    <path d="M182 922C182 860 232 810 294 810C336 810 374 833 393 869C412 833 450 810 492 810C554 810 604 860 604 922C604 1062 393 1182 393 1182C393 1182 182 1062 182 922Z" fill="#FB7185" fill-opacity="0.96"/>
+    <path d="M707 1013C707 955 754 908 812 908C851 908 887 930 905 962C923 930 959 908 998 908C1056 908 1103 955 1103 1013C1103 1144 905 1256 905 1256C905 1256 707 1144 707 1013Z" fill="#BE123C" fill-opacity="0.95"/>
+  </g>
+  <g opacity="0.78">
+    <path d="M927 431C954 391 1007 378 1047 404C1074 421 1089 451 1089 481C1110 467 1139 463 1167 479C1208 504 1222 557 1197 598C1142 689 1018 748 1018 748C1018 748 899 644 855 564C830 523 839 471 878 446C905 429 936 425 962 435" fill="#F43F5E" fill-opacity="0.88"/>
+    <path d="M794 694C811 670 843 662 868 678C885 689 894 707 895 726C908 717 925 715 942 725C968 742 976 775 960 801C925 849 846 887 846 887C846 887 771 822 743 771C727 745 733 712 757 695C774 684 793 682 809 688" fill="#FB7185"/>
+  </g>
+  <g opacity="0.86" transform="translate(842 516)">
+    <path d="M0 0C38 -45 104 -46 141 -3C158 17 167 43 165 68C196 57 229 66 249 93C282 137 275 201 232 235C154 296 18 286 -40 277C-75 272 -84 224 -54 206C-18 184 40 157 84 113C34 112 -14 93 -35 53C-46 32 -44 13 -30 -2C-22 -10 -9 -10 0 0Z" fill="#FDE68A"/>
+    <path d="M174 48L292 -15" stroke="#9D174D" stroke-width="12" stroke-linecap="round"/>
+    <path d="M279 -26L312 -39L301 -7" stroke="#9D174D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="72" cy="50" r="12" fill="#9D174D"/>
+    <path d="M54 74C70 89 95 93 115 82" stroke="#9D174D" stroke-width="8" stroke-linecap="round"/>
+    <path d="M16 133C66 126 112 138 143 165" stroke="#9D174D" stroke-width="10" stroke-linecap="round"/>
+    <path d="M42 203C82 192 127 193 169 212" stroke="#9D174D" stroke-width="10" stroke-linecap="round"/>
+    <path d="M-16 131C-52 147 -83 176 -98 209" stroke="#9D174D" stroke-width="10" stroke-linecap="round"/>
+    <path d="M-26 63C-66 54 -96 30 -113 -8" stroke="#9D174D" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g opacity="0.42">
+    <circle cx="265" cy="234" r="84" fill="#FFFFFF"/>
+    <circle cx="996" cy="742" r="92" fill="#FFFFFF"/>
+    <circle cx="617" cy="1250" r="64" fill="#FFFFFF"/>
+  </g>
+  <g fill="#9D174D" fill-opacity="0.18" font-family="Arial, sans-serif" font-weight="700">
+    <text x="76" y="380" font-size="82" transform="rotate(-12 76 380)">LOVE</text>
+    <text x="716" y="235" font-size="54" transform="rotate(12 716 235)">Be Mine</text>
+    <text x="126" y="778" font-size="64" transform="rotate(-8 126 778)">AMOR</text>
+    <text x="778" y="866" font-size="62" transform="rotate(8 778 866)">Cupid</text>
+    <text x="566" y="1096" font-size="58" transform="rotate(-6 566 1096)">Love You</text>
+  </g>
+  <text x="580" y="1308" fill="#7A1633" fill-opacity="0.88" font-family="Arial, sans-serif" font-size="72" font-weight="700">Tema Dia dos Namorados</text>
+  <defs>
+    <radialGradient id="romanceGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 700) rotate(90) scale(900 680)">
+      <stop stop-color="#FFF1F6"/>
+      <stop offset="1" stop-color="#F9A8D4"/>
+    </radialGradient>
+  </defs>
+</svg>
