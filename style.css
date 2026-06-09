@@ -97,12 +97,7 @@ body.carousel-open::before {
     margin: 0 auto 26px;
     display: flex;
     justify-content: center;
-    background: rgba(255, 255, 255, 0.78);
-    border-radius: 28px;
-    padding: 18px 26px;
-    box-shadow: 0 18px 40px rgba(157, 23, 77, 0.16);
-    -webkit-backdrop-filter: blur(10px);
-    backdrop-filter: blur(10px);
+    padding: 0;
 }
 
 .logo {
