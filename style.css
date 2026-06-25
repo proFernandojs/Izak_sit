@@ -162,6 +162,10 @@ body.carousel-open::before {
     z-index: 2;
 }
 
+.tema-banner--spaced {
+    margin-top: 40px;
+}
+
 .tema-banner-img {
     width: 100%;
     display: block;
