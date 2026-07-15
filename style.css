@@ -21,7 +21,7 @@ body {
     line-height: 1.6;
     color: #4b5563;
     scroll-behavior: smooth;
-    background: linear-gradient(180deg, #fff7fa 0%, #ffe8f0 48%, #fff3f7 100%);
+    background: #000000;
     position: relative;
 }
 
@@ -29,10 +29,8 @@ body::after {
     content: '';
     position: fixed;
     inset: 0;
-    background:
-        linear-gradient(180deg, rgba(255, 247, 250, 0.88), rgba(255, 232, 240, 0.8)),
-        url('assets/fundo2.jpeg') center top / cover no-repeat;
-    opacity: 0.34;
+    background: #000000;
+    opacity: 1;
     pointer-events: none;
     z-index: -1;
 }
@@ -51,7 +49,7 @@ body.carousel-open::before {
 
 /* Hero */
 .hero {
-    background: linear-gradient(180deg, rgba(255, 241, 246, 0.35), rgba(251, 207, 232, 0.18));
+    background: #000000;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -77,13 +75,11 @@ body.carousel-open::before {
 }
 
 .hero::before {
-    background-image:
-        linear-gradient(180deg, rgba(157, 23, 77, 0.14), rgba(157, 23, 77, 0.24)),
-    url('assets/fundo2.jpeg');
+    background: #000000;
 }
 
 .hero::after {
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2), rgba(255, 241, 246, 0.52));
+    background: #000000;
 }
 
 .hero-content,
@@ -112,12 +108,12 @@ body.carousel-open::before {
     max-width: 800px;
     padding: 28px 28px 34px;
     text-shadow: none;
-    background: rgba(255, 255, 255, 0.82);
-    border: 1px solid rgba(255, 255, 255, 0.72);
+    background: transparent;
+    border: none;
     border-radius: 28px;
-    box-shadow: 0 22px 50px rgba(157, 23, 77, 0.16);
-    -webkit-backdrop-filter: blur(12px);
-    backdrop-filter: blur(12px);
+    box-shadow: none;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
 }
 
 .hero-content h1 {
@@ -204,15 +200,15 @@ body.carousel-open::before {
 }
 
 .produtos {
-    background: linear-gradient(180deg, rgba(1, 120, 63, 0.18), rgba(255, 223, 0, 0.24));
+    background: #000000;
 }
 
 .sobre {
-    background: linear-gradient(180deg, rgba(255, 241, 246, 0.82), rgba(255, 255, 255, 0.72));
+    background: #000000;
 }
 
 .contato {
-    background: linear-gradient(180deg, rgba(255, 228, 236, 0.72), rgba(255, 241, 246, 0.82));
+    background: #000000;
 }
 
 .container {
@@ -225,13 +221,13 @@ body.carousel-open::before {
     text-align: center;
     font-size: 2.8rem;
     margin-bottom: 15px;
-    color: var(--dark);
+    color: #ffffff;
 }
 
 .section-subtitle {
     text-align: center;
     font-size: 1.3rem;
-    color: #8b3b5d;
+    color: #e0e0dd;
     margin-bottom: 60px;
 }
 
@@ -488,8 +484,8 @@ body.carousel-open::before {
 
 /* Footer */
 .footer {
-    background: linear-gradient(180deg, #fff0f5 0%, #ffd9e6 100%);
-    color: #5d1735;
+    background: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 60px 0 30px;
     border-top: 1px solid rgba(157, 23, 77, 0.14);
@@ -510,12 +506,12 @@ body.carousel-open::before {
 }
 
 .footer a {
-    color: #7a1633;
+    color: #d81b60;
     font-weight: 700;
 }
 
 .footer a:hover {
-    color: var(--pink);
+    color: #ff69b4;
 }
 
 @media (max-width: 768px) {
